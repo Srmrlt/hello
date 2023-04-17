@@ -3,3 +3,4 @@ extra new line
 jfskkfdslkfdslk
 
 hello, git
+hello, git rebase
